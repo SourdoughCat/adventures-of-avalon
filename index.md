@@ -10,7 +10,9 @@ I will list other systems as they arise, though will mostly use ones which are "
 
 <details>
 <summary>Info</summary>
+
 **Location**: Woods
+
 **Looking for**: A lost treasure which is a new love that is not a weapon
 
 **Raw Notes**
