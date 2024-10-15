@@ -34,9 +34,19 @@ Notes:
 * The protagonist's tribe could have ancient connections to the Old Religion or druidic practices.
 * The journey could be motivated by a dream, vision, or omen that sets the protagonist on their path.
 
+**Image Prompt**
+
+I stand amidst the whispering woods, the ancient trees towering above me like sentinels. The rustling leaves beneath my feet are a familiar comfort, a reminder of the life I've known since childhood. My family's humble cabin lies hidden deep within this forest, where my parents taught me the ways of the hunt and the secrets of the wild. Manga style, simple lines, pastel palette
+
+https://fastflux.ai/
+
+---
+
 </details> 
 
 I stand amidst the whispering woods, the ancient trees towering above me like sentinels. The rustling leaves beneath my feet are a familiar comfort, a reminder of the life I've known since childhood. My family's humble cabin lies hidden deep within this forest, where my parents taught me the ways of the hunt and the secrets of the wild.
+
+![day1](./assets/day1.png)
 
 For as long as I can remember, I've lived off the land, our small tribe bound together by tradition and necessity. Yet, as I've grown in strength and skill, a restless fire burns within me. I yearn to break free from the mundane routine, to forge a name that will echo beyond our secluded glade. My heart craves adventure, glory, and the thrill of the unknown.
 
