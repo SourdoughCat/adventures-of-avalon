@@ -8,8 +8,7 @@ I will list other systems as they arise, though will mostly use ones which are "
 
 # Day 1
 
-<details>
-<summary>Info</summary>
+<details><summary>Info</summary>
 
 **Location**: Woods
 
